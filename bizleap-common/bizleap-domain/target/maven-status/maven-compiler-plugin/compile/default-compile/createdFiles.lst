@@ -1,0 +1,12 @@
+com\bizleap\marchant\domain\entities\LeastHydrating$1.class
+com\bizleap\marchant\domain\entities\Purchase.class
+com\bizleap\marchant\domain\entities\HydratingFruit.class
+com\bizleap\marchant\domain\entities\LeastHydrating.class
+com\bizleap\marchant\domain\enums\TemperatureCatagory.class
+com\bizleap\marchant\domain\entities\MediumHydrating.class
+com\bizleap\marchant\domain\entities\MostHydrating$1.class
+com\bizleap\marchant\domain\entities\MostHydrating.class
+com\bizleap\marchant\domain\enums\CustomerType.class
+com\bizleap\marchant\domain\entities\Customer.class
+com\bizleap\marchant\domain\entities\Fruit$1.class
+com\bizleap\marchant\domain\entities\Fruit.class
